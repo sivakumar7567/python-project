@@ -1,0 +1,5 @@
+tensorflow
+keras
+
+for notebook - run in colab
+for application - run in cmd : python manage.py migrate & then python manage.py runserver
